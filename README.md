@@ -41,3 +41,9 @@ Model mencapai akurasi validasi sebesar 87%.
 
 ## Catatan
 Repository ini dibuat untuk keperluan akademik.
+
+## Dataset Note
+Dataset images and annotations are not included in this repository due to file size limitations.
+The dataset can be downloaded from:
+https://www.kaggle.com/datasets/andrewmvd/face-mask-detection
+
